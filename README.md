@@ -17,7 +17,7 @@ The development environment includes:
 ## Structure
 \src - Contains both code and test cases.  
 App.java - Contains the main() entry point.  
-Game.java - This is thegame logic.  
+Game.java - This is the game logic.  
 \config - Reads the configuration. **NB:** Currently the configuration is hard-coded. The intent was to use a JSON file under \resources.
 \domain - Data classes used in the game.
 \utility - Plumbing code like getting a new shuffled desk from the server.
